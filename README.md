@@ -1,1 +1,2 @@
 # Pixel
+Pixel Art Drawing App: a React project, that dynamically generates pixel grids based on users input for width and height, sets up a color picker, sets up hover states for individual pixels, allows you to color them, export the finished artwork as a .PNG file. Flexbox is used to provide a consistent layout on different screen sizes. Sass used to simplify the coding process and make It more efficient. SCSS used to add additional functionality.
